@@ -1,4 +1,4 @@
-# git-demoilua2
+# git/gitHub-demoilua2
 Kokeillaan GitHubia
 
 
@@ -9,3 +9,5 @@ Kokeillaan GitHubia
 * Bootstrap mukaan
 * Kissakuva
 * linkki xamkin sivulle
+
+---
